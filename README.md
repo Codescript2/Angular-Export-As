@@ -1,6 +1,10 @@
-# StructuralDirective
+# Angular Export As
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.0.
+
+## Link to the youtube video
+
+[Youtube Video](https://youtu.be/WDqsmK9oiVM?si=bSNUFBq6gpypqgnG)
 
 ## Development server
 
